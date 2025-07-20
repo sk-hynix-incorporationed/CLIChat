@@ -1,0 +1,14 @@
+C:\Users\sybar\source\repos\CLIChat\CLIChat\bin\Debug\net8.0\CLIChat.exe
+C:\Users\sybar\source\repos\CLIChat\CLIChat\bin\Debug\net8.0\CLIChat.deps.json
+C:\Users\sybar\source\repos\CLIChat\CLIChat\bin\Debug\net8.0\CLIChat.runtimeconfig.json
+C:\Users\sybar\source\repos\CLIChat\CLIChat\bin\Debug\net8.0\CLIChat.dll
+C:\Users\sybar\source\repos\CLIChat\CLIChat\bin\Debug\net8.0\CLIChat.pdb
+C:\Users\sybar\source\repos\CLIChat\CLIChat\obj\Debug\net8.0\CLIChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sybar\source\repos\CLIChat\CLIChat\obj\Debug\net8.0\CLIChat.AssemblyInfoInputs.cache
+C:\Users\sybar\source\repos\CLIChat\CLIChat\obj\Debug\net8.0\CLIChat.AssemblyInfo.cs
+C:\Users\sybar\source\repos\CLIChat\CLIChat\obj\Debug\net8.0\CLIChat.csproj.CoreCompileInputs.cache
+C:\Users\sybar\source\repos\CLIChat\CLIChat\obj\Debug\net8.0\CLIChat.dll
+C:\Users\sybar\source\repos\CLIChat\CLIChat\obj\Debug\net8.0\refint\CLIChat.dll
+C:\Users\sybar\source\repos\CLIChat\CLIChat\obj\Debug\net8.0\CLIChat.pdb
+C:\Users\sybar\source\repos\CLIChat\CLIChat\obj\Debug\net8.0\CLIChat.genruntimeconfig.cache
+C:\Users\sybar\source\repos\CLIChat\CLIChat\obj\Debug\net8.0\ref\CLIChat.dll
